@@ -4,9 +4,9 @@ role: Senior undergraduate
 bio: " I﻿ am a computer systems enthusiast, interested in operating systems,
   database systems, distributed systems and cloud systems."
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Operating systems
+  - database systems
+  - distributed systems and cloud systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +20,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: B eng. in Artificial Intelligence
+    - course: B.Eng. in Software Engineering(System Software track)
       institution: Shanghai Jiao Tong university
       year: 2023
 email: 57ez8i1u@duck.com
