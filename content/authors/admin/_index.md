@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 57ez8i1u@duck.com
+    link: mailto:57ez8i1u@duck.com
   - icon: github
     icon_pack: fab
     link: https://github.com/WindowsXp-Beta
@@ -21,7 +21,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: B.Eng. in Software Engineering(System Software track)
+    - course: B.Eng. in Software Engineering (System Software track)
       institution: Shanghai Jiao Tong university
       year: 2023
 email: 57ez8i1u@duck.com
