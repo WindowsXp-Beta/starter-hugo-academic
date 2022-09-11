@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 57ez8i1u@duck.com
   - icon: github
     icon_pack: fab
     link: https://github.com/WindowsXp-Beta
