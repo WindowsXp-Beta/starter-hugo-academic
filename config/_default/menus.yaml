@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
-  - name: Experiences
-    url: '#Intern%20Experience'
+  - name: Research Experiences
+    url: '#research_experience'
+    weight: 20
+  - name: Intern Experiences
+    url: '#intern_experience'
     weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
+  - name: Honors and Awards
+    url: '#honors_and_awards'
+    weight: 50
+  - name: Blog
+    url: 'https://blogs.windowsxp.xyz'
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
