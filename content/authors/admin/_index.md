@@ -6,7 +6,8 @@ bio: " I﻿ am a computer systems enthusiast, interested in operating systems,
 interests:
   - Operating systems
   - database systems
-  - distributed systems and cloud systems
+  - distributed systems
+  - cloud systems
 social:
   - icon: envelope
     icon_pack: fas
