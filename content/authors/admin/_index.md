@@ -4,10 +4,10 @@ role: Senior undergraduate
 bio: "I am a computer systems enthusiast, interested in operating systems,
   database systems, distributed systems and cloud systems."
 interests:
-  - Operating systems
-  - database systems
-  - distributed systems
-  - cloud systems
+  - Operating Systems
+  - Database Systems
+  - Distributed Systems
+  - Cloud Systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/xinpeng-wei-b09846200/
-organizations: []
+organizations:
+  - name: Shanghai Jiao Tong University
+    url: https://en.sjtu.edu.cn/
 education:
   courses:
     - course: B.Eng. in Software Engineering ( System Software track )
