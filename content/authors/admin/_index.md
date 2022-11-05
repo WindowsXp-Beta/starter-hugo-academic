@@ -7,7 +7,7 @@ interests:
   - Operating Systems
   - Database Systems
   - Distributed Systems
-  - Cloud Systems
+  - Cloud Infrastructure
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +24,7 @@ organizations:
 education:
   courses:
     - course: B.Eng. in Software Engineering ( System Software track )
-      institution: Shanghai Jiao Tong university
+      institution: Shanghai Jiao Tong University
       year: 2023
 email: 57ez8i1u@duck.com
 superuser: true

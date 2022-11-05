@@ -36,7 +36,7 @@ experience:
         * Developed tools facilitating FTE’s daily development including an script maintaining RCAs on Azure devops, a test automation tool, etc.
 
   - title: Database System R&D Intern
-    company: Singularity Data
+    company: RisingWave Labs
     company_url: 'https://www.risingwave-labs.com/'
     company_logo: rwicon
     location: Shanghai, China

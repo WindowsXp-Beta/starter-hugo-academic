@@ -12,6 +12,10 @@ design:
 ---
 
 # Honors and Awards
+## 2022
+- Xiaomi Scholarship
+  - 1 out of 97 seniors in the School of Software
+  - Issued by Xiaomi Inc.
 ## 2021
 - Wish Scholarship
   - Two undergraduate students per year in the School of Software
@@ -19,5 +23,5 @@ design:
 
 ## 2020
 - National Scholarship
-  - Top 0.2% nation-wide
+  - Top 0.2% nationwide
   - Issued by Ministry of Education of P.R. China
