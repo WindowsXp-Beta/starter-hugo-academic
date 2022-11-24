@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Northeastern University Khoury College of Computer Science
-    company_url: 'https://www.khoury.northeastern.edu'
+    company: Northeastern University Systems Research Group
+    company_url: 'http://srg.khoury.northeastern.edu/'
     company_logo: neu
     location: Boston, MA
     date_start: '2022-09-01'
