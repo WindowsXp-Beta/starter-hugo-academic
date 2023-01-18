@@ -17,7 +17,7 @@ main:
     url: '#honors_and_awards'
     weight: 50
   - name: Blog
-    url: 'https://blog.windowsxp.xyz'
+    url: 'https://blog.windowsxp.dev'
     weight: 60
   # - name: Contact
   #   url: '#contact'

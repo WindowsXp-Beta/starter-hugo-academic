@@ -24,13 +24,16 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Northeastern University Systems Research Group
-    company_url: 'http://srg.khoury.northeastern.edu/'
+    company_url: 'https://srg.khoury.northeastern.edu/'
     company_logo: neu
     location: Boston, MA
     date_start: '2022-09-01'
     # date_end: '2023-09-01'
     description: |2-
-        - Working on GPU allocation with hardware new features.
+        - Built a benchmarking tool for 16 machine learning models on PyTorch HUB to get their performance (throughput and tail-latency).
+        - Implemented a "exchange-and-compact" development transition algorithm and integrated it with Kubernetes.
+        - Optimized the transition time from 30' to 1'.
+        - Passed a 24-hour end to end test on a 4-instances cluster on GCP.
 
   - title: PRP Project Leader
     company: Institute of Parallel and Distributed Systems(IPADS)
