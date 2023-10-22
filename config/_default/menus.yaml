@@ -7,11 +7,11 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Research Experiences
-    url: '#research_experience'
+  - name: Work Experience
+    url: '#work_experience'
     weight: 20
-  - name: Intern Experiences
-    url: '#intern_experience'
+  - name: Research Experience
+    url: '#research_experience'
     weight: 30
   - name: Honors and Awards
     url: '#honors_and_awards'

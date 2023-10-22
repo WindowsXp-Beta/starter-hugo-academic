@@ -12,9 +12,12 @@ design:
 ---
 
 # Honors and Awards
+## 2023
+- Outstanding Graduate of Shanghai Jiao Tong University
+  - Issued by Shanghai Jiao Tong University
 ## 2022
 - Xiaomi Scholarship
-  - 1 out of 97 seniors in the School of Software
+  - 1 out of 97 senior undergraduates in the School of Software
   - Issued by Xiaomi Inc.
 ## 2021
 - Wish Scholarship
