@@ -48,7 +48,7 @@ experience:
 
   - title: Database System R&D Intern
     company: RisingWave Labs
-    company_url: 'https://www.risingwave-labs.com/'
+    company_url: 'https://www.risingwave.com/'
     company_logo: rwicon
     location: Shanghai, China
     date_start: '2022-02-23'
