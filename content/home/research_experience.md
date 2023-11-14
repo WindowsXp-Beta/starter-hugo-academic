@@ -45,7 +45,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2022-09-01'
     description: |2-
-        - Adviser: Prof. [Yubin Xia](https://ipads.se.sjtu.edu.cn/pub/members/yubin_xia) and [Ph.D. Mingyu Li](https://maxul.github.io/)
+        - Adviser: [Prof. Yubin Xia](https://ipads.se.sjtu.edu.cn/pub/members/yubin_xia) and [Ph.D. Mingyu Li](https://maxul.github.io/)
         - Implemented a secure personal data analysis and storage system on Hikey960 using OPTEE and AOSP.
         - Designed and developed an app to generate SJTU students’ personal annual report.
         - Participated in Shanghai “Internet+” College Student Innovation and Entrepreneurship Contest as an SJTU representative.

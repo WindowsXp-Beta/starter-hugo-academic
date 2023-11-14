@@ -18,11 +18,11 @@ design:
 ## 2022
 - Xiaomi Scholarship
   - 1 out of 97 senior undergraduates in the School of Software
-  - Issued by Xiaomi Inc.
+  - Issued by [Xiaomi Inc.](https://www.mi.com/us/)
 ## 2021
 - Wish Scholarship
   - Two undergraduate students per year in the School of Software
-  - Issued by Wish Inc.
+  - Issued by [Wish Inc.](https://www.wish.com/companyinfo?hide_login_modal=true)
 
 ## 2020
 - National Scholarship
