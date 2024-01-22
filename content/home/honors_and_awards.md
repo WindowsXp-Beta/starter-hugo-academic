@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-# title: Honors and Awards
+title: Honors and Awards
 subtitle:
 weight: 60  # section position on page
 design:
@@ -11,8 +11,9 @@ design:
   columns: '1'
 ---
 
-# Honors and Awards
 ## 2023
+- Graduate Teaching Assistant Fellowship
+  - Issued by School of Computer Science, Georgia Institute of Technology to promote master students with great research potential
 - Outstanding Graduate of Shanghai Jiao Tong University
   - Issued by Shanghai Jiao Tong University
 ## 2022
