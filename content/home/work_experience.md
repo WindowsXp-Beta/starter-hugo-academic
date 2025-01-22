@@ -22,10 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Machine Learning System R&D Intern
-    company: TikTok, Applied Machine Learning Team
-    company_url: 'https://www.tiktok.com/en/'
-    company_logo: tiktok_logo
+  - title: Research Engineer Intern
+    company: ByteDance, Seed Foundation Machine Learning Systems
+    company_url: 'https://www.bytedance.com/'
+    company_logo: bytedance_logo
+    location: Bellevue, WA
+    date_start: '2024-09-03'
+    date_end: '2024-12-06'
+    description: |2-
+        * Integrated a DiT-based text-to-image model into an LLM training simulator, implemented FSDP (ZeRO3) simulation support, and evaluated the model performance under FSDP and various hardware backends.
+        * Adopted Neusight(ASPLOS’25) into the simulator to predict PyTorch operators’ latencies on unseen hardware(e.g. B200), by using MLP trained on existing hardware data, to predict tile-level utilization, achieving a 5% e2e error.
+
+  - title: Software Engineer Intern
+    company: Google, Core ML
+    company_url: 'https://www.google.com/'
+    company_logo: google_logo
+    location: Sunnyvale, CA
+    date_start: '2024-05-13'
+    date_end: '2024-08-16'
+    description: |2-
+        * Applied NVIDIA virtual GPU to Borg, Google’s internal cluster manager, to allow fractional GPU allocation and live-migration of vGPU-attached VMs, resolving dependencies between QEMU, Linux kernel(VFIO drivers), etc.
+        * Implemented an utility library and a CLI in C++ to manipulate the lifecycle of vGPU devices and SR-IOV functions.
+
+  - title: Research Engineer Intern
+    company: ByteDance, Applied Machine Learning Team
+    company_url: 'https://www.bytedance.com/'
+    company_logo: bytedance_logo
     location: Beijing, China
     date_start: '2023-05-05'
     date_end: '2023-08-04'
