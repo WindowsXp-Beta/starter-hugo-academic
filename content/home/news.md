@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-- 2025.1.6: 🎉 Begin my last semester at **Tech**, and served as a GTA for CS 6465/4365 again~
+- 2025.1.6: 🎉 Begin my last semester at **Tech**, and serve as a GTA for CS 6465/4365 again~
 - 2024.9.3: 🎉 Begin my internship at **ByteDance**. Drove 900 miles from bay to bellevue, exhausted but excited~
 - 2024.5.13: 🎉 Begin my internship at **Google**. Hello, bay area~
 - 2024.1.17: 🎉 I will join **Google Cloud Borglet** team as a software engineer intern in the summer of 2024 at Sunnyvale, CA to build next-generation ML infrastructure ~

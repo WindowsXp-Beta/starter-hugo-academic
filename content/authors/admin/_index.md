@@ -1,12 +1,10 @@
 ---
 title: Xinpeng Wei
-role: First-year Master Student
+role: Second-year Master Student
 bio: "I am a computer systems enthusiast, interested in operating systems, database systems, distributed systems and cloud systems."
 interests:
-  - Machine Learning Systems
-  - High-Performance Computing
-  - Cloud Infrastructure
-  - Operating Systems
+  - Systems &harr; Machine Learning
+  - Physics
 social:
   - icon: envelope
     icon_pack: fas

@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Engineer Intern
     company: ByteDance, Seed Foundation Machine Learning Systems
-    company_url: 'https://www.bytedance.com/'
+    company_url: 'https://team.doubao.com/en/'
     company_logo: bytedance_logo
     location: Bellevue, WA
     date_start: '2024-09-03'
